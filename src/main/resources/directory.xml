@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns='http://www.w3.org/2000/10/XMLSchema'
+	targetNamespace='http://www.jhu.edu/directory' elementFormDefault='qualified'>
+	<directory name="project">
+		<file lastModified="2017-05-19" extension="txt" created="2017-05-17"> readme
+		</file>
+		<directory name="source">
+			<file lastModified="2017-04-22" extension="cpp" created="2017-04-19">HelloWorld
+			</file>
+		</directory>
+		<directory name="resources&amp;stuff" />
+	</directory>
+</schema>

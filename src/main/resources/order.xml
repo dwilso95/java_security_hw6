@@ -1,0 +1,10 @@
+<SalesPerson id="person1">
+	<Quota>500000</Quota>
+	<Order id="order1">
+		<Item id="item1" dom="12Nov2002">F-16 Jet Fighter</Item>
+		<Color />
+		<Quantity>1</Quantity>
+		<Amount>8200000</Amount>
+	</Order>
+	<Commission id="comission1">10000</Commission>
+</SalesPerson>
