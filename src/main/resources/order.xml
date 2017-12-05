@@ -6,5 +6,5 @@
 		<Quantity>1</Quantity>
 		<Amount>8200000</Amount>
 	</Order>
-	<Commission id="comission1">10000</Commission>
+	<Commission id="commission1">10000</Commission>
 </SalesPerson>
